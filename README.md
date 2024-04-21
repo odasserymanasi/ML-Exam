@@ -25,7 +25,4 @@ Model Training: Using KNN Regressor and Multiple Regression models.
 Model Evaluation: Comparing models based on R² score, MSE, and RMSE.
 
 Results
-The KNN model outperformed the Linear Regression model with:
-R² Score: 0.825
-MSE: 83,353,815,170.56
-RMSE: 288,710.61
+The KNN model outperformed the Linear Regression model.
